@@ -1,8 +1,8 @@
-customer name: virginia buckridge
+customer name: domenick botsford
 order date: wed dec 01 2021 07:52:05 gmt-0500 (eastern standard time)
-customer address: 073 wyman loaf boynton beach tx 03995
-customer phone: 1-928-702-7646
-customer email: virginia.buckridge@gmail.com
+customer address: 1992 lambert meadows west hartford wy 55134-5147
+customer phone: 1-200-985-7523 x294
+customer email: domenick.botsford@gmail.com
 order payment method: credit card
 delivery type: digital
 order items: [{"productid":"302","total":"$15"}]
@@ -16,4 +16,3 @@ account age: 2390 days
 
 ###
 
- no

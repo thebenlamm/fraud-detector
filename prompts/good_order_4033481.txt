@@ -1,8 +1,8 @@
-customer name: jedidiah emmerich
+customer name: dorothea jacobi
 order date: wed dec 01 2021 00:12:24 gmt-0500 (eastern standard time)
-customer address: 325 ortiz village kerlukeberg ia 09063-5348
-customer phone: (231) 257-4941 x7307
-customer email: jedidiah.emmerich@gmail.com
+customer address: 6942 brown crescent west beverlyfort hi 16419-5992
+customer phone: (418) 969-2509 x78709
+customer email: dorothea.jacobi@gmail.com
 order payment method: credit card
 delivery type: digital
 order items: [{"productid":"395","total":"$12.84"}]
@@ -16,4 +16,3 @@ account age: 475 days
 
 ###
 
- no

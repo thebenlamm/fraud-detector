@@ -1,8 +1,8 @@
-customer name: thad homenick
+customer name: bernadette friesen
 order date: wed dec 01 2021 00:05:01 gmt-0500 (eastern standard time)
-customer address: 233 bogan flat lake camronmouth or 75676
-customer phone: (771) 559-6323 x30092
-customer email: thad.homenick@gmail.com
+customer address: 36796 guiseppe spur schuylerfort nv 49186
+customer phone: 1-345-995-3959 x9227
+customer email: bernadette.friesen@gmail.com
 order payment method: credit card
 delivery type: physical
 order items: [{"productid":"106","total":"$10"},{"productid":"318","total":"$20.41"}]
@@ -16,4 +16,3 @@ account age: 2677 days
 
 ###
 
- no

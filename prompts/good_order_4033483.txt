@@ -1,8 +1,8 @@
-customer name: wanda dubuque
+customer name: briana huels
 order date: wed dec 01 2021 00:12:48 gmt-0500 (eastern standard time)
-customer address: 7775 yundt forges labadiemouth pa 17580-2250
-customer phone: 930-229-2475 x540
-customer email: wanda.dubuque@gmail.com
+customer address: 825 reynolds extension sheridanview me 58052
+customer phone: 1-712-451-1735 x970
+customer email: briana.huels@gmail.com
 order payment method: paypal
 delivery type: digital
 order items: [{"productid":"190","total":"$115.84"}]
@@ -16,4 +16,3 @@ account age: 121 days
 
 ###
 
- no

@@ -1,8 +1,8 @@
-customer name: alexie kiehn
+customer name: alyce cruickshank
 order date: wed dec 01 2021 05:52:26 gmt-0500 (eastern standard time)
-customer address: 18799 micheal way leannchester ok 56800-4819
-customer phone: 1-940-762-6079 x59197
-customer email: alexie.kiehn@gmail.com
+customer address: 1008 harvey roads new adolfochester ma 39555-6130
+customer phone: 396.644.1629
+customer email: alyce.cruickshank@gmail.com
 order payment method: credit card
 delivery type: digital
 order items: [{"productid":"170","total":"$100"}]
@@ -16,4 +16,3 @@ account age: 0 days
 
 ###
 
- yes

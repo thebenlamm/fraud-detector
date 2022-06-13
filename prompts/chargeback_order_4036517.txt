@@ -1,8 +1,8 @@
-customer name: angela wiegand
+customer name: kallie spinka
 order date: sat dec 04 2021 23:15:27 gmt-0500 (eastern standard time)
-customer address: 6280 yolanda club paradise co 76839-2389
-customer phone: (586) 231-2617 x267
-customer email: angela.wiegand@gmail.com
+customer address: 33321 leuschke dam ryanmouth wa 18300-2812
+customer phone: 1-906-271-1032 x624
+customer email: kallie.spinka@gmail.com
 order payment method: credit card
 delivery type: physical
 order items: [{"productid":"1846","total":"$50"}]
@@ -16,4 +16,3 @@ account age: 0 days
 
 ###
 
- yes

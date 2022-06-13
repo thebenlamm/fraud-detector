@@ -1,8 +1,8 @@
-customer name: jovan kohler
+customer name: leanne pollich
 order date: wed dec 01 2021 00:09:52 gmt-0500 (eastern standard time)
-customer address: 4810 moen station gloverhaven de 88407
-customer phone: 637.888.9850 x196
-customer email: jovan.kohler@gmail.com
+customer address: 2607 schiller manors johnstonburgh ms 89705-6587
+customer phone: 1-724-660-2269 x9706
+customer email: leanne.pollich@gmail.com
 order payment method: credit card
 delivery type: digital
 order items: [{"productid":"395","total":"$30"}]
@@ -16,4 +16,3 @@ account age: 475 days
 
 ###
 
- no

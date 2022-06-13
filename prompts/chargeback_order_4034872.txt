@@ -1,8 +1,8 @@
-customer name: maxie o'conner
+customer name: salma wolf
 order date: thu dec 02 2021 20:54:42 gmt-0500 (eastern standard time)
-customer address: 8185 schuppe station hermanview nh 45808
-customer phone: 1-497-442-1203
-customer email: maxie.o'conner@gmail.com
+customer address: 485 keebler tunnel emmanuelleland ut 15811-3592
+customer phone: (231) 932-1886 x5559
+customer email: salma.wolf@gmail.com
 order payment method: credit card
 delivery type: digital
 order items: [{"productid":"1770","total":"$100"}]
@@ -16,4 +16,3 @@ account age: 0 days
 
 ###
 
- yes

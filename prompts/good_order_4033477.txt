@@ -1,8 +1,8 @@
-customer name: irma kessler
+customer name: domenic powlowski
 order date: wed dec 01 2021 00:02:13 gmt-0500 (eastern standard time)
-customer address: 37214 haag inlet archfurt ak 65549-2757
-customer phone: 368-717-8495 x280
-customer email: irma.kessler@gmail.com
+customer address: 09857 raul spur rutherfordbury ct 09393-0226
+customer phone: 727-543-0099 x24107
+customer email: domenic.powlowski@gmail.com
 order payment method: credit card
 delivery type: digital
 order items: [{"productid":"19","total":"$10.75"}]
@@ -16,4 +16,3 @@ account age: 2087 days
 
 ###
 
- no

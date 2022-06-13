@@ -1,8 +1,8 @@
-customer name: shawna hyatt
+customer name: aida rogahn
 order date: wed dec 01 2021 07:20:43 gmt-0500 (eastern standard time)
-customer address: 43966 tierra manors destanymouth ma 30205-2372
-customer phone: 333.766.4641 x8808
-customer email: shawna.hyatt@gmail.com
+customer address: 6607 bosco circle east leslyland ga 54062
+customer phone: 1-599-849-6278 x02716
+customer email: aida.rogahn@gmail.com
 order payment method: credit card
 delivery type: digital
 order items: [{"productid":"699","total":"$200"}]
@@ -16,4 +16,3 @@ account age: 16 days
 
 ###
 
- yes

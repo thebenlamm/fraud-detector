@@ -1,8 +1,8 @@
-customer name: presley ryan
+customer name: camille oberbrunner
 order date: wed dec 01 2021 01:06:18 gmt-0500 (eastern standard time)
-customer address: 81336 rebecca stream east oda ny 30172
-customer phone: 289.975.9829
-customer email: presley.ryan@gmail.com
+customer address: 9187 torphy walks new libbystad tx 94097
+customer phone: 975-362-8344 x52455
+customer email: camille.oberbrunner@gmail.com
 order payment method: paypal
 delivery type: digital
 order items: [{"productid":"699","total":"$100"}]
@@ -16,4 +16,3 @@ account age: 0 days
 
 ###
 
- yes

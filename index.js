@@ -47,7 +47,7 @@ const runner = async () => {
         try {
             const output = await processOrder(chargebackOrders100[i]);
             if (output) {
-                fs.writeFileSync(`./prompts/chargeback_order_${chargebackOrders100[i]}.txt`, output.prompt + output.completion);
+                fs.writeFileSync(`./prompts/chargeback_order_${chargebackOrders100[i]}.txt`, output.prompt);
                 fineTune.push(output);
             }
         } catch (err) {
@@ -59,7 +59,7 @@ const runner = async () => {
         try {
             const output = await processOrder(declinedOrders100[i]);
             if (output) {
-                fs.writeFileSync(`./prompts/declined_order_${declinedOrders100[i]}.txt`, output.prompt + output.completion);
+                fs.writeFileSync(`./prompts/declined_order_${declinedOrders100[i]}.txt`, output.prompt);
                 fineTune.push(output);
             }
         } catch (err) {
@@ -71,7 +71,7 @@ const runner = async () => {
         try {
             const output = await processOrder(goodOrders100[i]);
             if (output) {
-                fs.writeFileSync(`./prompts/good_order_${goodOrders100[i]}.txt`, output.prompt + output.completion);
+                fs.writeFileSync(`./prompts/good_order_${goodOrders100[i]}.txt`, output.prompt);
                 fineTune.push(output);
             }
         } catch (err) {

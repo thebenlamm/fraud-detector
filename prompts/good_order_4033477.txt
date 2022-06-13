@@ -1,0 +1,19 @@
+customer name: irma kessler
+order date: wed dec 01 2021 00:02:13 gmt-0500 (eastern standard time)
+customer address: 37214 haag inlet archfurt ak 65549-2757
+customer phone: 368-717-8495 x280
+customer email: irma.kessler@gmail.com
+order payment method: credit card
+delivery type: digital
+order items: [{"productid":"19","total":"$10.75"}]
+order total: $10.75
+order history (last 20): [["2019-06-18","$15.49"],["2019-09-21","$29.3"],["2019-10-21","$18.9"],["2019-11-22","$69.81"],["2019-12-24","$17.98"],["2021-02-15","$19.79"],["2021-02-15","$19.79"],["2021-02-16","$19.79"],["2021-07-07","$22.38"],["2021-07-08","$22.38"],["2021-07-15","$38.15"],["2021-08-11","$22"],["2021-08-17","$22"],["2021-09-15","$22"],["2021-09-16","$22"],["2021-09-24","$22"],["2021-09-30","$22"],["2021-11-26","$23.75"],["2021-11-26","$45.08"],["2021-11-29","$22.29"]]
+total orders (all time): 55
+device type: mobile
+device vendor: apple
+browser: webkit
+account age: 2087 days
+
+###
+
+ no

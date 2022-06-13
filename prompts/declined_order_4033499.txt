@@ -1,0 +1,19 @@
+customer name: presley ryan
+order date: wed dec 01 2021 01:06:18 gmt-0500 (eastern standard time)
+customer address: 81336 rebecca stream east oda ny 30172
+customer phone: 289.975.9829
+customer email: presley.ryan@gmail.com
+order payment method: paypal
+delivery type: digital
+order items: [{"productid":"699","total":"$100"}]
+order total: $100
+order history (last 20): []
+total orders (all time): 0
+device type: unknown
+device vendor: unknown
+browser: chrome
+account age: 0 days
+
+###
+
+ yes

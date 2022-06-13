@@ -1,0 +1,19 @@
+customer name: adrien bayer
+order date: fri dec 03 2021 15:24:12 gmt-0500 (eastern standard time)
+customer address: 35885 brandi harbor mckennaborough mi 28713-1246
+customer phone: (360) 452-6009
+customer email: adrien.bayer@gmail.com
+order payment method: credit card
+delivery type: digital
+order items: [{"productid":"136","total":"$100"}]
+order total: $100
+order history (last 20): [["2021-12-03","$96.68"]]
+total orders (all time): 1
+device type: unknown
+device vendor: unknown
+browser: chrome
+account age: 0 days
+
+###
+
+ yes

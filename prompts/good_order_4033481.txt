@@ -1,0 +1,19 @@
+customer name: jedidiah emmerich
+order date: wed dec 01 2021 00:12:24 gmt-0500 (eastern standard time)
+customer address: 325 ortiz village kerlukeberg ia 09063-5348
+customer phone: (231) 257-4941 x7307
+customer email: jedidiah.emmerich@gmail.com
+order payment method: credit card
+delivery type: digital
+order items: [{"productid":"395","total":"$12.84"}]
+order total: $12.84
+order history (last 20): [["2020-08-13","$23.5"],["2020-08-13","$23.5"],["2020-08-13","$23.5"],["2020-09-21","$31.8"],["2020-10-20","$28.8"],["2021-02-07","$46.5"],["2021-02-14","$160.58"],["2021-02-21","$224.4"],["2021-03-16","$9.58"],["2021-03-28","$236"],["2021-06-19","$19.9"],["2021-06-19","$10.45"],["2021-06-19","$19.93"],["2021-10-23","$41.9"],["2021-12-01","$25.8"]]
+total orders (all time): 15
+device type: unknown
+device vendor: unknown
+browser: unknown
+account age: 475 days
+
+###
+
+ no

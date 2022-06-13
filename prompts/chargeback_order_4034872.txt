@@ -1,0 +1,19 @@
+customer name: maxie o'conner
+order date: thu dec 02 2021 20:54:42 gmt-0500 (eastern standard time)
+customer address: 8185 schuppe station hermanview nh 45808
+customer phone: 1-497-442-1203
+customer email: maxie.o'conner@gmail.com
+order payment method: credit card
+delivery type: digital
+order items: [{"productid":"1770","total":"$100"}]
+order total: $100
+order history (last 20): []
+total orders (all time): 0
+device type: mobile
+device vendor: apple
+browser: mobile safari
+account age: 0 days
+
+###
+
+ yes

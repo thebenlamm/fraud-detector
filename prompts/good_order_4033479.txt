@@ -1,0 +1,19 @@
+customer name: jovan kohler
+order date: wed dec 01 2021 00:09:52 gmt-0500 (eastern standard time)
+customer address: 4810 moen station gloverhaven de 88407
+customer phone: 637.888.9850 x196
+customer email: jovan.kohler@gmail.com
+order payment method: credit card
+delivery type: digital
+order items: [{"productid":"395","total":"$30"}]
+order total: $30
+order history (last 20): [["2020-08-13","$23.5"],["2020-08-13","$23.5"],["2020-08-13","$23.5"],["2020-09-21","$31.8"],["2020-10-20","$28.8"],["2021-02-07","$46.5"],["2021-02-14","$160.58"],["2021-02-21","$224.4"],["2021-03-16","$9.58"],["2021-03-28","$236"],["2021-06-19","$19.9"],["2021-06-19","$10.45"],["2021-06-19","$19.93"],["2021-10-23","$41.9"]]
+total orders (all time): 14
+device type: unknown
+device vendor: unknown
+browser: unknown
+account age: 475 days
+
+###
+
+ no

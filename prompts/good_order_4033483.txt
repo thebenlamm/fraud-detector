@@ -1,0 +1,19 @@
+customer name: wanda dubuque
+order date: wed dec 01 2021 00:12:48 gmt-0500 (eastern standard time)
+customer address: 7775 yundt forges labadiemouth pa 17580-2250
+customer phone: 930-229-2475 x540
+customer email: wanda.dubuque@gmail.com
+order payment method: paypal
+delivery type: digital
+order items: [{"productid":"190","total":"$115.84"}]
+order total: $115.84
+order history (last 20): [["2021-08-02","$91.35"],["2021-08-20","$35.69"],["2021-08-20","$147.75"],["2021-08-25","$196.8"],["2021-10-08","$270.89"],["2021-10-12","$46.75"]]
+total orders (all time): 6
+device type: mobile
+device vendor: samsung
+browser: chrome webview
+account age: 121 days
+
+###
+
+ no

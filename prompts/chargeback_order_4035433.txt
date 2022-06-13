@@ -1,0 +1,19 @@
+customer name: gianni cruickshank
+order date: fri dec 03 2021 15:22:55 gmt-0500 (eastern standard time)
+customer address: 445 herzog hill douglasview mt 45952-0502
+customer phone: (628) 497-4630 x14185
+customer email: gianni.cruickshank@gmail.com
+order payment method: credit card
+delivery type: digital
+order items: [{"productid":"136","total":"$100"}]
+order total: $100
+order history (last 20): []
+total orders (all time): 0
+device type: unknown
+device vendor: unknown
+browser: chrome
+account age: 0 days
+
+###
+
+ yes

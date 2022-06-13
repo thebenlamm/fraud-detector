@@ -1,0 +1,19 @@
+customer name: andy turcotte
+order date: wed dec 01 2021 05:18:43 gmt-0500 (eastern standard time)
+customer address: 392 julie canyon lake hansberg mn 60693
+customer phone: 1-664-497-2786 x4061
+customer email: andy.turcotte@gmail.com
+order payment method: credit card
+delivery type: digital
+order items: [{"productid":"699","total":"$100"}]
+order total: $100
+order history (last 20): []
+total orders (all time): 0
+device type: mobile
+device vendor: unknown
+browser: chrome
+account age: 0 days
+
+###
+
+ yes

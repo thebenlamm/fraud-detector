@@ -1,0 +1,19 @@
+customer name: thad homenick
+order date: wed dec 01 2021 00:05:01 gmt-0500 (eastern standard time)
+customer address: 233 bogan flat lake camronmouth or 75676
+customer phone: (771) 559-6323 x30092
+customer email: thad.homenick@gmail.com
+order payment method: credit card
+delivery type: physical
+order items: [{"productid":"106","total":"$10"},{"productid":"318","total":"$20.41"}]
+order total: $30.41
+order history (last 20): [["2017-12-29","$32.01"],["2018-04-04","$38.22"],["2018-05-07","$21.7"],["2018-05-17","$21.75"],["2018-08-06","$43.79"],["2018-11-02","$40"],["2018-12-27","$23.03"],["2019-04-18","$18.74"],["2019-07-22","$32.92"],["2019-07-24","$22.09"],["2019-09-16","$31.28"],["2020-02-12","$42.05"],["2020-02-20","$17.2"],["2020-04-28","$18.22"],["2020-06-11","$16.77"],["2020-08-09","$26.1"],["2020-11-18","$4.5"],["2020-11-25","$8"],["2021-01-21","$14.11"],["2021-04-02","$12.54"]]
+total orders (all time): 43
+device type: unknown
+device vendor: unknown
+browser: chrome
+account age: 2677 days
+
+###
+
+ no
